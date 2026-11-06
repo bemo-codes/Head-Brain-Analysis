@@ -182,18 +182,6 @@ Open the local URL shown in the terminal, usually `http://localhost:8501`.
 
 ---
 
-## ☁️ Streamlit Deployment
-
-1. Push the project to a GitHub repository.
-2. Make sure `app.py`, `headbrain.csv`, `requirements.txt` and `.streamlit/config.toml` are included.
-3. Open [Streamlit Community Cloud](https://share.streamlit.io/).
-4. Sign in with GitHub and create a new app.
-5. Select your repository and the `main` branch.
-6. Set the main file path to `app.py`.
-7. Deploy the application.
-
----
-
 ## ⚠️ Limitations
 
 - The dataset contains only 237 observations.
