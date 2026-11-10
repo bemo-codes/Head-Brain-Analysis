@@ -131,7 +131,7 @@ Head-Brain-Analysis/
 ### 1. Clone your repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/bemo-codes/Head-Brain-Analysis
 cd Head-Brain-Analysis
 ```
 
